@@ -39,12 +39,22 @@ h1 span {
 
 h2 {
     text-align: center;
+    font-size: 1.2rem;
 }
 
-.headshot p{
+#headshot p{
     text-align: center;
     padding: 5rem 0 2rem 0;
 }
+
+.column-3 {
+    box-sizing: border-box;
+    width: 33.33%;
+    float: left;
+    padding: 10px;
+}
+
+
 
 .group:after {
   content: "";
