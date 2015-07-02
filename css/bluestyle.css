@@ -30,7 +30,7 @@ h1 {
     font-family: 'Lobster', cursive;
     text-align: center;
     font-size: 3rem;
-    padding: 10px 0 22px 0;
+    padding: 1rem 0 2.2rem 0;
 }
 
 h1 span {
@@ -43,6 +43,7 @@ h2 {
 
 .headshot p{
     text-align: center;
+    padding: 5rem 0 2rem 0;
 }
 
 .group:after {
