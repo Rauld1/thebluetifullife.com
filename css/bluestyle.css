@@ -54,7 +54,9 @@ h2 {
     padding:  1rem 0 2rem 0;
 }
 
-
+.text-center {
+    text-align: center;
+}
 
 .group:after {
   content: "";
