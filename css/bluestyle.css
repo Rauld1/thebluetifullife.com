@@ -41,6 +41,10 @@ h2 {
     text-align: center;
 }
 
+.headshot p{
+    text-align: center;
+}
+
 .group:after {
   content: "";
   display: table;
