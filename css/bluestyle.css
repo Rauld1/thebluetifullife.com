@@ -1,0 +1,50 @@
+body, div, section, ul, li, p, h1, h2, h3, h4, img {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #0098E3;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 62.5%;
+    color: #fff;
+}
+
+#main-container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+#back-to-top {
+    position: fixed;
+    right: 2rem;
+}
+
+nav ul li {
+    list-style: none;
+    float: left;
+    padding: 1rem;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 3rem;
+    padding: 10px 0 22px 0;
+}
+
+h1 span {
+    color: #034BBA;
+}
+
+h2 {
+    text-align: center;
+}
+
+.group:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
